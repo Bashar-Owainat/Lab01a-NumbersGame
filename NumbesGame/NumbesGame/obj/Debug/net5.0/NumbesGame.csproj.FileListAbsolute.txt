@@ -1,0 +1,16 @@
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.exe
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.deps.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.runtimeconfig.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\ref\NumbesGame.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\bin\Debug\net5.0\NumbesGame.pdb
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\ref\NumbesGame.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.pdb
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab01a-NumbersGame\NumbesGame\NumbesGame\obj\Debug\net5.0\NumbesGame.genruntimeconfig.cache
